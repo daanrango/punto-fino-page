@@ -12,3 +12,9 @@ header {
     text-align: center;
     margin-top: 40px;
 }
+
+.navbar {
+    background-color: rgb(194, 126, 209);
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
